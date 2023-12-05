@@ -2,7 +2,7 @@
 
 The BarangayPH Web Application is a comprehensive and user-friendly platform designed to enhance community connectivity and engagement. This multifaceted application offers a plethora of features, ranging from resident management and communication tools to community initiatives and safety measures. Residents can stay informed about local events, participate in forums, and access essential services such as permit applications and emergency alerts. The application also promotes cultural awareness, environmental sustainability, and economic growth within the barangay. With features like a digital newsletter, job board, and skill development resources, this application serves as a centralized hub for residents to connect, collaborate, and contribute to the vibrant life of their barangay. Explore the future of community interaction and empowerment with the Barangay Web Application.
 
-![Barangay Web App](https://i.ibb.co/W2JQ3WH/barangay-web-app-image.jpg)
+![Barangay Web App](https://i.ibb.co/c1XXyVx/image.png)
 
 ## Resident Management
 1. **Resident Database:**
