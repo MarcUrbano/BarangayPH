@@ -1,9 +1,8 @@
 import { Outlet } from "react-router-dom"
 const HomeLayout = () => {
-  return <div>
-    <nav>Home Layout</nav>
+  return <>
     <Outlet />
-    </div>
+    </>
   
 }
 export default HomeLayout
